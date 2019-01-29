@@ -1,3 +1,7 @@
+[ASCII ](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_72/com.ibm.aix.networkcomm/conversion_table.htm)
+
+
+
 | DEC | BIN | OCT | HEX |
 | ------------- | ------------- |------------- |------------- |
 | 0 | 0 | 0 | 0x00 | 
